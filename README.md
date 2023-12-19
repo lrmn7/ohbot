@@ -7,4 +7,4 @@ The website was made using React + Vite along with Bootstrap.
 https://ohbot.is-a.fun/
 
 ## How it looks
-<img src="https://cdn.is-a.fun/botportal.png">
+<img src="https://cdn.is-a.fun/madebytragic/botportal.png">
